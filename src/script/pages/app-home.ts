@@ -79,7 +79,7 @@ export class AppHome extends LitElement {
   share() {
     if ((navigator as any).share) {
       (navigator as any).share({
-        title: 'PWABuilder pwa-starter',
+        title: 'Hacktoberfest pwa-starter',
         text: 'Check out the PWABuilder pwa-starter!',
         url: 'https://github.com/pwa-builder/pwa-starter',
       });
@@ -94,7 +94,7 @@ export class AppHome extends LitElement {
             <h2>${this.message}</h2>
 
             <p>
-              For more information on the PWABuilder pwa-starter, check out the
+              For more information on the Hacktoberfest Progressive WebApp structure, check out the
               <fast-anchor
                 href="https://github.com/pwa-builder/pwa-starter/blob/master/README.md"
                 appearance="hypertext"
@@ -103,21 +103,17 @@ export class AppHome extends LitElement {
             </p>
 
             <p>
-              Welcome to the
-              <fast-anchor href="https://pwabuilder.com" appearance="hypertext"
-                >PWABuilder</fast-anchor
+              Welcome to
+              <fast-anchor href="https://hacktoberfest.digitalocean.com/resources" appearance="hypertext"
+                >Hacktoberfest</fast-anchor
               >
-              pwa-starter! Be sure to head back to
-              <fast-anchor href="https://pwabuilder.com" appearance="hypertext"
-                >PWABuilder</fast-anchor
-              >
-              when you are ready to ship this PWA to the Microsoft, Google Play
-              and Samsung Galaxy stores!
+              If you would like to help build a beautiful website for Hacktoberfest,
+              feel free to change colors, add text, menus etc and make a pull request.
             </p>
 
             ${'share' in navigator
               ? html`<fast-button appearance="primary" @click="${this.share}"
-                  >Share this Starter!</fast-button
+                  >Share button!</fast-button
                 >`
               : null}
           </fast-card>
