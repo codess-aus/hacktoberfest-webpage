@@ -1,17 +1,12 @@
-# pwa-starter
+# Hacktoberfest Progressive Web App
 
 <img loading="lazy" alt="an image of what the starter looks like" src="https://github.com/pwa-builder/pwa-starter/raw/master/assets/readme/intro.png"/>
 
-Welcome to the [PWABuilder](https://www.pwabuilder.com/) pwa-starter! Looking to build a new [Progressive Web App](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) and not sure where to get started? This is what you are looking for! The pwa-starter includes everything you need to start building a production ready PWA and follows all best practices. You get:
+Welcome to the my Hacktoberfest WebSite[Hacktoberfest](https://hacktoberfest.digitalocean.com/resources) pwa-starter!
 
-- lazy-loaded routes using [@vaadin/router](https://vaadin.com/router).
-- A 100 on [Lighthouse](https://developers.google.com/web/tools/lighthouse/), giving you a great starting point for performance and accessibility.
-- Use [lit](https://lit.dev/) to build your PWA. lit gives you all of the developer experience of React with all the benefits of Web Components such as smaller bundles, simplicity and faster load times.
-- Includes the [PWABuilder pwa-install component](https://github.com/pwa-builder/pwa-install#pwa-install) for an app store like PWA install experience.
-- [Workbox](https://developers.google.com/web/tools/workbox/) for service workers along with the [PWABuilder pwa-update component](https://github.com/pwa-builder/pwa-update#pwa-update) to give your PWA a great offline experience.
-- [FAST Components](https://www.fast.design/docs/components/getting-started/) for awesome, pre-built components using the Fluent Design Language.
+Help me build on this start to create a beautiful website for hacktoberfest.
 
-**[Live Demo](https://pwa-starter-demo.glitch.me/)**
+It's a Progressive Web App built [Progressive Web App](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) built in the simplest possible form using [lit](https://lit.dev/). Lit gives you all of the developer experience of React with all the benefits of Web Components such as smaller bundles, simplicity and faster load times.
 
 ## Getting Started
 
@@ -59,11 +54,6 @@ Once your PWA is ready to deploy we recommend [Azure static website hosting](htt
 Many app stores, including the Microsoft Store and the Google Play Store support PWAs. To package your PWA for deployment to these app stores head back to https://pwabuilder.com/, put in your URL and hit `Build My PWA`.
 
 
-## Dual Screen support
-
-The default layout of this starter is dual screen friendly. We do this [here](https://github.com/pwa-builder/pwa-starter/blob/master/src/script/pages/app-home.ts#L41) by using the [CSS Spanning API](https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/master/Foldables/explainer.md#proposal-css-primitives-for-building-dual-screen-layouts) to adjust the layout when the app is spanned on a dual screen device. As you start to build your PWA you can use these CSS features to ensure that your PWA looks good in all of the [dual screen postures](https://docs.microsoft.com/en-us/dual-screen/introduction#dual-screen-overview). For more info on developing PWAs for dual screen devices you can check out the [Microsoft docs here](https://docs.microsoft.com/en-us/dual-screen/cross-platform/#build-web-experiences).
-
-
 ## Addons
 
 ### Microsoft Graph Toolkit
@@ -77,8 +67,6 @@ For Authentication you can use the [PWABuilder pwa-auth](https://github.com/pwa-
 😎 Bonus: It's super lightweight, pulling in the authentication libraries only when the user tries to sign-in with one.
 
 😎😎 Double bonus: It uses the new [Credential Management APIs](https://developers.google.com/web/fundamentals/security/credential-management) to speed through sign-ins without bulky pop-ups or redirects.
-
-
 
 ## Folder Structure
 
@@ -112,3 +100,11 @@ pwa-starter
 |           |   app-about.ts (app-about component)
 
 ```
+
+The rules:
+
+1. Let's make this a standard blog website. So you can propose changes to colors, fonts, menus, pages etc as your pull requests.
+2. Let's make it beautiful - I realise this is subjective, so in your pull request - be explicit about the change you want to make and why you think it makes the site more beautiful
+3. Let's make it accessible - plenty of content on the web talking about accessibility features, colors etc - if you implement something accessible - you get extra kudos.
+4. Let's keep it clean - adhere to the code of conduct. Be kind, online, all the time. Don't be rude, offensive and keep your politics off the site.
+
