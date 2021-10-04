@@ -1,6 +1,6 @@
 # Hacktoberfest Progressive Web App
 
-<img loading="lazy" alt="an image of what the starter looks like" src="https://github.com/pwa-builder/pwa-starter/raw/master/assets/readme/intro.png"/>
+<img loading="lazy" alt="an image of what the starter looks like" src="https://github.com/codess-aus/hacktoberfest-webpage/blob/main/assets/readme/intro.png"/>
 
 Welcome to the my Hacktoberfest WebSite[Hacktoberfest](https://hacktoberfest.digitalocean.com/resources) pwa-starter!
 
