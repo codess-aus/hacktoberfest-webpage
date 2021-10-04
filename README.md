@@ -103,8 +103,8 @@ pwa-starter
 
 The rules:
 
-1. Let's make this a standard blog website. So you can propose changes to colors, fonts, menus, pages etc as your pull requests.
-2. Let's make it beautiful - I realise this is subjective, so in your pull request - be explicit about the change you want to make and why you think it makes the site more beautiful
-3. Let's make it accessible - plenty of content on the web talking about accessibility features, colors etc - if you implement something accessible - you get extra kudos.
-4. Let's keep it clean - adhere to the code of conduct. Be kind, online, all the time. Don't be rude, offensive and keep your politics off the site.
+* Let's make this a standard blog website. So you can propose changes to colors, fonts, menus, pages etc as your pull requests.
+* Let's make it beautiful - I realise this is subjective, so in your pull request - be explicit about the change you want to make and why you think it makes the site more beautiful
+* Let's make it accessible - plenty of content on the web talking about accessibility features, colors etc - if you implement something accessible - you get extra kudos.
+* Let's keep it clean - adhere to the code of conduct. Be kind, online, all the time. Don't be rude, offensive and keep your politics off the site.
 

@@ -1,5 +1,5 @@
 {
-  "name": "PWA Starter",
+  "name": "Hacktoberfest Starter",
   "display": "standalone",
   "start_url": "/",
   "short_name": "starter",

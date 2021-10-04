@@ -3,7 +3,7 @@ import { property, customElement } from 'lit/decorators';
 
 @customElement('app-header')
 export class AppHeader extends LitElement {
-  @property({ type: String }) title = 'PWA Starter';
+  @property({ type: String }) title = 'Hacktoberfest Starter';
 
   static get styles() {
     return css`
