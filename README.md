@@ -2,11 +2,11 @@
 
 <img loading="lazy" alt="an image of what the starter looks like" src="https://github.com/codess-aus/hacktoberfest-webpage/blob/main/assets/readme/intro.png"/>
 
-Welcome to the my Hacktoberfest WebSite[Hacktoberfest](https://hacktoberfest.digitalocean.com/resources) pwa-starter!
+Welcome to the my [Hacktoberfest](https://hacktoberfest.digitalocean.com/resources) WebSite!
 
-Help me build on this start to create a beautiful website for hacktoberfest.
+Help me build this to create a beautiful website for Hacktoberfest.
 
-It's a Progressive Web App built [Progressive Web App](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) built in the simplest possible form using [lit](https://lit.dev/). Lit gives you all of the developer experience of React with all the benefits of Web Components such as smaller bundles, simplicity and faster load times.
+It's a [Progressive Web App](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) built in the simplest possible form using [lit](https://lit.dev/). Lit gives you all of the developer experience of React with all the benefits of Web Components such as smaller bundles, simplicity and faster load times.
 
 ## Getting Started
 
@@ -106,5 +106,4 @@ The rules:
 * Let's make this a standard blog website. So you can propose changes to colors, fonts, menus, pages etc as your pull requests.
 * Let's make it beautiful - I realise this is subjective, so in your pull request - be explicit about the change you want to make and why you think it makes the site more beautiful
 * Let's make it accessible - plenty of content on the web talking about accessibility features, colors etc - if you implement something accessible - you get extra kudos.
-* Let's keep it clean - adhere to the code of conduct. Be kind, online, all the time. Don't be rude, offensive and keep your politics off the site.
-
+* Let's keep it clean - adhere to the code of conduct. Be kind online, all the time. Don't be rude or offensive and keep politics off the site.
