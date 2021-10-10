@@ -96,6 +96,9 @@ export class AppHome extends LitElement {
             <p>
               For more information on the Hacktoberfest Progressive WebApp structure, check out the
               <fast-anchor
+                target='_blank'
+                rel="noopener"
+                rel="noreferrer"
                 href="https://github.com/pwa-builder/pwa-starter/blob/master/README.md"
                 appearance="hypertext"
                 >README</fast-anchor
@@ -124,6 +127,9 @@ export class AppHome extends LitElement {
             <ul>
               <li>
                 <fast-anchor
+                  target='_blank'
+                  rel="noopener"
+                  rel="noreferrer"
                   href="https://www.typescriptlang.org/"
                   appearance="hypertext"
                   >TypeScript</fast-anchor
@@ -132,6 +138,9 @@ export class AppHome extends LitElement {
 
               <li>
                 <fast-anchor
+                  target='_blank'
+                  rel="noopener"
+                  rel="noreferrer"
                   href="https://lit.dev"
                   appearance="hypertext"
                   >lit</fast-anchor
@@ -140,6 +149,9 @@ export class AppHome extends LitElement {
 
               <li>
                 <fast-anchor
+                  target='_blank'
+                  rel="noopener"
+                  rel="noreferrer"
                   href="https://www.fast.design/docs/components/getting-started"
                   appearance="hypertext"
                   >FAST Components</fast-anchor
@@ -148,7 +160,10 @@ export class AppHome extends LitElement {
 
               <li>
                 <fast-anchor
-                  href="https://vaadin.github.io/vaadin-router/vaadin-router/demo/#vaadin-router-getting-started-demos"
+                  target='_blank'
+                  rel="noopener"
+                  rel="noreferrer"
+                  href="https://vaadin.github.io/router/vaadin-router/demo/#vaadin-router-getting-started-demos"
                   appearance="hypertext"
                   >Vaadin Router</fast-anchor
                 >
