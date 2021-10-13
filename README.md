@@ -2,11 +2,11 @@
 
 <img loading="lazy" alt="an image of what the starter looks like" src="https://github.com/codess-aus/hacktoberfest-webpage/blob/main/assets/readme/intro.png"/>
 
-Welcome to the my Hacktoberfest WebSite[Hacktoberfest](https://hacktoberfest.digitalocean.com/resources) pwa-starter!
+Welcome to the my [Hacktoberfest](https://hacktoberfest.digitalocean.com/resources) WebSite pwa-starter!
 
 Help me build on this start to create a beautiful website for hacktoberfest.
 
-It's a Progressive Web App built [Progressive Web App](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) built in the simplest possible form using [lit](https://lit.dev/). Lit gives you all of the developer experience of React with all the benefits of Web Components such as smaller bundles, simplicity and faster load times.
+It's a [Progressive Web App](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) built in the simplest possible form using [lit](https://lit.dev/). Lit gives you all of the developer experience of React with all the benefits of Web Components such as smaller bundles, simplicity and faster load times.
 
 ## Getting Started
 
