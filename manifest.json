@@ -3,7 +3,7 @@
   "display": "standalone",
   "start_url": "/",
   "short_name": "starter",
-  "theme_color": "#E1477E",
+  "theme_color": "#27831BE",
   "description": "This is a PWA Starter app",
   "orientation": "any",
   "background_color": "#E1477E",
