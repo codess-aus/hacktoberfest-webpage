@@ -107,4 +107,5 @@ The rules:
 * Let's make it beautiful - I realise this is subjective, so in your pull request - be explicit about the change you want to make and why you think it makes the site more beautiful
 * Let's make it accessible - plenty of content on the web talking about accessibility features, colors etc - if you implement something accessible - you get extra kudos.
 * Let's keep it clean - adhere to the code of conduct. Be kind, online, all the time. Don't be rude, offensive and keep your politics off the site.
+* Edits to the READMe.MD do not count as valid hacktoberfest commits. Help build the website. Edit the HTML and CSS.
 
